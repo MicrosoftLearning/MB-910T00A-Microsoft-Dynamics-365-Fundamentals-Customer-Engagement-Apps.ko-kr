@@ -2,12 +2,12 @@
 lab:
   title: '랩 3.1: Dynamics 365 Customer Service에서 참조 문서 만들기 및 게시'
   module: 'Module 3: Learn the Fundamentals of Dynamics 365 Customer Service'
-ms.openlocfilehash: 3133819d99d9fbb317b731db313b1df7bcf8ebba
-ms.sourcegitcommit: 600ccb76999dbc6fe9f7eaece0c235b0e85706ed
+ms.openlocfilehash: accc3885619d7949364937badba113de68163ce7
+ms.sourcegitcommit: 20016ceee38b42fe1b81573e65ab9cdb0d17eba2
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/27/2022
-ms.locfileid: "137909095"
+ms.lasthandoff: 03/25/2022
+ms.locfileid: "141142003"
 ---
 <a name="module-3-learn-the-fundamentals-of-dynamics-365-customer-service"></a>모듈 3: Dynamics 365 Customer Service의 기본 사항 알아보기
 ========================
@@ -26,9 +26,9 @@ ms.locfileid: "137909095"
 
 3. 각 스테이지의 참조 문서를 쉽게 확인하려면 **내 활성 문서** 옆의 드롭다운 화살표를 선택합니다. 
 
-4. **초안 문서** 보기를 선택합니다. 
+4. **초안 문서** 를 선택합니다. 그러면 초안 모드 문서 2개가 표시됩니다.
 
-5. **승인된 문서** 를 선택합니다. 
+5. **승인된 문서** 를 선택합니다. 승인된 문서가 하나 이상 표시됩니다.  
 
 6. **내 활성 문서** 로 다시 전환합니다.
 
@@ -60,9 +60,9 @@ ms.locfileid: "137909095"
 
     5. 인쇄를 선택합니다.
 
-파손된 반품 항목을 수령했으므로 계좌에 구매 금액이 환불됩니다.
+    파손된 반품 항목을 수령했으므로 계좌에 구매 금액이 환불됩니다.
 
-**참고:** 원하는 경우 텍스트에 서식을 추가할 수 있습니다. 
+    **참고:** 원하는 경우 텍스트에 서식을 추가할 수 있습니다. 
 
 10. **명령 모음** 의 **저장** 단추를 선택하여 참조 문서를 저장하고 열어 둡니다. 
 
@@ -115,5 +115,7 @@ ms.locfileid: "137909095"
     - **만료 상태:** 만료됨
 
     - **승인된 번역 게시:** 아니요
+    
+29. **게시** 단추를 클릭하여 문서를 게시합니다.
 
 
