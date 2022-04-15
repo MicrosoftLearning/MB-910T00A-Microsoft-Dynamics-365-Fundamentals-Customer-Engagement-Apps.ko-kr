@@ -2,12 +2,12 @@
 lab:
   title: '랩 4.3: Dynamics 365 Field Service 캡스톤 랩'
   module: 'Module 4: Learn the Fundamentals of Dynamics 365 Field Service'
-ms.openlocfilehash: f3a0b281cf2f6b342b789bffa977d57de8b9dcf6
-ms.sourcegitcommit: 600ccb76999dbc6fe9f7eaece0c235b0e85706ed
+ms.openlocfilehash: 6bddf66b1b4e4c11941e5b1f4b3c64e0ff5cbf8c
+ms.sourcegitcommit: 72aae532f6c367bd6e48570b827f7289171f2b31
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/27/2022
-ms.locfileid: "137909085"
+ms.lasthandoff: 04/11/2022
+ms.locfileid: "141605551"
 ---
 <a name="module-4-learn-the-fundamentals-of-dynamics-365-field-service"></a>모듈 4: Dynamics 365 Field Service의 기본 사항 알아보기
 ========================
@@ -98,7 +98,7 @@ ABC사는 보통 세 가지 시나리오 중 한 가지 상황에 해당되면 �
 
  
 
-### <a name="task-2-manually-create-a-word-order"></a>작업 2: 수동으로 작업 주문 만들기
+### <a name="task-2-manually-create-a-work-order"></a>작업 2: 수동으로 작업 주문 만들기
 
 앞에서 만든 서비스 케이스 레코드는 뒷부분에서 다시 사용합니다. 다음으로는 수동으로 작업 주문 레코드를 만드는 방법을 살펴봅니다. 
 
