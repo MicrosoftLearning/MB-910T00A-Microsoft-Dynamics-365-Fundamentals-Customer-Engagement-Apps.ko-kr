@@ -2,12 +2,12 @@
 lab:
   title: '랩 2.1: Dynamics 365 Marketing에서 세그먼트 만들기'
   module: 'Module 2: Learn the Fundamentals of Dynamics 365 Marketing'
-ms.openlocfilehash: 159f9c048a9dd746b9d0c83ee5692a5a648351de
-ms.sourcegitcommit: 6065e6a662bd0407d37fcc565c1b2da1c916255d
+ms.openlocfilehash: 40c22a4ed1c45da04a0f1a686be6f8fa16b09a69
+ms.sourcegitcommit: 5d822ceab64fbb8615808dcdebeff848eec6ee25
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/29/2022
-ms.locfileid: "144405023"
+ms.lasthandoff: 09/06/2022
+ms.locfileid: "147855075"
 ---
 <a name="module-2-learn-the-fundamentals-of-dynamics-365-marketing"></a>모듈 2: Dynamics 365 Marketing의 기본 사항 학습
 ========================
@@ -41,7 +41,7 @@ ms.locfileid: "144405023"
 
 8. 고스트 텍스트 **텍스트 입력** 이 포함되어 있는 세 번째 드롭다운 목록을 선택하고 **레드몬드** 를 입력합니다.
 
-9. 쿼리 위쪽의 **이름** 필드를 클릭하여 선택하고 **레드몬드 연락처** 를 입력합니다.
+9. 쿼리 위쪽의 **이름** 필드를 클릭하여 선택하고 **Redmond 연락처** 를 입력합니다.
 
 10. 명령 모음에서 **저장** 을 선택하여 세그먼트를 저장합니다.
 
