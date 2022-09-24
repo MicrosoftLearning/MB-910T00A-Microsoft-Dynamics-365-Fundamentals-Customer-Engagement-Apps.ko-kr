@@ -2,13 +2,8 @@
 lab:
   title: '랩 5.1: Dynamics 365 Field Service에서 작업 주문 만들기'
   module: 'Module 5: Learn the Fundamentals of Dynamics 365 Field Service'
-ms.openlocfilehash: fa0e8af72df342a72267895d9318ce3f625633b5
-ms.sourcegitcommit: 6065e6a662bd0407d37fcc565c1b2da1c916255d
-ms.translationtype: HT
-ms.contentlocale: ko-KR
-ms.lasthandoff: 04/29/2022
-ms.locfileid: "144405097"
 ---
+
 <a name="module-5-learn-the-fundamentals-of-dynamics-365-field-service"></a>모듈 5: Dynamics 365 Field Service의 기본 사항 학습
 ========================
 
@@ -20,9 +15,9 @@ ms.locfileid: "144405097"
 
 ## <a name="instructions"></a>Instructions
 
-1. 왼쪽의 탐색 영역에서 **작업 주문** 을 선택합니다.
+1. 왼쪽의 탐색 영역에서 **작업 주문**을 선택합니다.
 
-2. **명령 모음** 에서 **새로 만들기** 단추를 선택하여 새 작업 주문을 만듭니다.
+2. **명령 모음**에서 **새로 만들기** 단추를 선택하여 새 작업 주문을 만듭니다.
 
 3. 다음과 같이 작업 주문 세부 정보를 작성합니다.
 
@@ -38,7 +33,7 @@ ms.locfileid: "144405097"
 
 4. **설정** 탭을 선택합니다.
 
-5. **서비스 지역** 필드의 값을 **WA** 로 설정합니다. 
+5. **서비스 지역** 필드의 값을 **WA**로 설정합니다. 
 
 6. **기본 설정** 아래에서 다음과 같이 시간 기본 설정을 구성합니다.
 
@@ -48,4 +43,4 @@ ms.locfileid: "144405097"
 
 7. 작업 주문 번호를 확인하여 적어 둡니다. 
 
-8. **저장 후 닫기** 를 선택하여 변경 내용을 저장하고 새 작업 주문 작성을 끝냅니다.
+8. **저장 후 닫기**를 선택하여 변경 내용을 저장하고 새 작업 주문 작성을 끝냅니다.

@@ -2,13 +2,8 @@
 lab:
   title: '랩 1.1: Customer Engagement 앱 사용'
   module: 'Module 1: Examine the core capabilities of Dynamics 365 (CRM)'
-ms.openlocfilehash: b480ae2128d5735172f1d005f2ecbfcb3b8a53f9
-ms.sourcegitcommit: 6065e6a662bd0407d37fcc565c1b2da1c916255d
-ms.translationtype: HT
-ms.contentlocale: ko-KR
-ms.lasthandoff: 04/29/2022
-ms.locfileid: "144405031"
 ---
+
 <a name="module-1-examine-the-core-capabilities-of-dynamics-365-crm"></a>모듈 1: Dynamics 365(CRM)의 핵심 기능 검토
 ========================
 
@@ -16,7 +11,7 @@ ms.locfileid: "144405031"
 
 ## <a name="objectives"></a>목표
 
-이 연습에서는 먼저 환경에 로그인합니다. 그러면 **홈** 화면에서 사용 가능한 여러 Dynamics 365 애플리케이션에 바로 쉽게 액세스할 수 있습니다. 앱을 연 후에는 필요에 따라 여러 애플리케이션 간을 쉽게 전환할 수 있습니다. 사용자는 일상 작업을 수행할 때 Dynamics 365 애플리케이션의 기본 기능에 액세스하여 해당 기능을 사용합니다.
+During this exercise, you will first log into the environment. Then you can see that it is very easy to access the different Dynamics 365 applications available to you directly from the <bpt id="p1">**</bpt>Home<ept id="p1">**</ept> screen. Once you have opened an app, you can easily switch between the different applications as required. Accessing and using the basic functionality in Dynamics 365 applications is something you as a user will do daily.
 
 
 ## <a name="lab-setup"></a>랩 설정
@@ -29,9 +24,9 @@ ms.locfileid: "144405031"
 
 1. 사용자 자격 증명을 사용하여 https://admin.Powerplatform.microsoft.com에 액세스하고 로그인합니다.
 
-2. 사용자 자격 증명에서 @ 기호까지 종이나 메모장에 기록합니다. 이것은 공유 Dynamics 365 조직 내에서 사용자가 만든 데이터를 구분하는 데 사용할 랩 별칭입니다.
+2. Record your user credential up to the @ symbol on a scratch piece of paper or in Notepad. This will be your lab alias that you will use to differentiate the data you create within the shared Dynamics 365 organization.
 
-중요: 이 테넌트 및 Dynamics 365 조직은 교실의 다른 학생들과 공유됩니다. 이는 직원들이 조직 소유의 Dynamics 365 인스턴스를 사용할 때 테넌트를 공유하는 것과 같습니다. 레코드를 만들 때 PII(개인 식별이 가능한 정보)를 사용하지 마세요. 또한 만든 모든 레코드, 데이터, 앱, 흐름 등의 앞에 사용자 이름을 접두사(예: mollyc)로 붙이는 것도 좋습니다.
+Important: Please be aware that this tenant and the Dynamics 365 organization will be shared with the other students in your classroom, like employees would share a tenant when using the Dynamics 365 instance belonging to their organization. Do not use any PII (personally identifiable information) when creating records. It is also good practice to use your username prefix (ex., mollyc) in front of all records, data, apps, flows, etc. you create.
 
 Power Platform 관리 센터를 마음껏 탐색하되 아무것도 변경해서는 안 됩니다.
 
@@ -39,15 +34,15 @@ Power Platform 관리 센터를 마음껏 탐색하되 아무것도 변경해서
 
 1. https://admin.powerplatform.microsoft.com/environments 에 액세스합니다.
 
-2. WWLLABnnn 환경을 선택합니다. 여기서 nnn은 숫자입니다. 이 환경은 모든 랩을 수행할 공유 Dynamics 365 환경입니다.
+2. Select the WWLLABnnn environment, where nnn is a number. This is the shared Dynamics 365 environment where you will be performing all labs.
 
 3. 환경 열기 클릭
 
-4. 화면 왼쪽 상단에서 Power Platform 관리 센터 바로 왼쪽에 있는 앱 론처 도미노 단추를 펼칩니다. Dynamics 365 Marketing 앱을 선택하여 시작합니다.
+4. Expand the App Launcher domino button at the top left of the screen, directly to the left of Power Platform admin center. Select the Dynamics 365 Marketing app to launch it.
 
-5. 왼쪽에 있는 탐색 창을 살펴봅니다. 창 하단에 있는 단추를 통해 영역을 변경할 수 있습니다. 현재 마케팅 영역을 보고 있습니다.
+5. 이 연습에서는 먼저 환경에 로그인합니다.
 
-6. 탐색 창 하단에서 **마케팅** 을 선택하고 **이벤트** 영역을 선택합니다. 탐색 창의 **이벤트** 영역을 살펴봅니다.
+6. 그러면 **홈** 화면에서 사용 가능한 여러 Dynamics 365 애플리케이션에 바로 쉽게 액세스할 수 있습니다.
 
 7. 몇 분 동안 애플리케이션을 살펴본 후에 마케팅 영역으로 돌아갑니다.
 
@@ -55,7 +50,7 @@ Power Platform 관리 센터를 마음껏 탐색하되 아무것도 변경해서
 
 이 연습에서는 Microsoft Office 365 앱 화면을 사용하여 다양한 Dynamics 365 Customer Engagement 애플리케이션에 액세스하는 방법을 파악합니다.
 
-1.  웹 브라우저에서 https://www.office.com/apps로 이동합니다. 액세스 권한이 있는 모든 애플리케이션이 표시됩니다.   
+1.  앱을 연 후에는 필요에 따라 여러 애플리케이션 간을 쉽게 전환할 수 있습니다.   
 
 2.  **비즈니스 앱** 탭을 선택하여 Dynamics 365 비즈니스 애플리케이션만 표시하도록 표시되는 애플리케이션을 제한합니다.   
 
@@ -63,14 +58,14 @@ Power Platform 관리 센터를 마음껏 탐색하되 아무것도 변경해서
  
 4.  **영업 허브** 텍스트를 입력하고 **영업 허브** 앱을 선택하여 엽니다.   
 
-5. 앱 내에는 수행하려는 작업에 따라 사용 가능한 여러 영역이 있습니다. 예를 들어 영업 허브 애플리케이션에서는 다양한 관리 설정을 사용할 수 있습니다. 
+5. 사용자는 일상 작업을 수행할 때 Dynamics 365 애플리케이션의 기본 기능에 액세스하여 해당 기능을 사용합니다. 
 
-6. 화면 왼쪽 아래에서 **영업** 텍스트를 선택하고 표시되는 목록에서 **앱 설정** 을 선택합니다.  애플리케이션의 이 부분에서 애플리케이션의 관리 설정을 변경할 수 있습니다.  
+6. On the lower left side of the screen, select the text <bpt id="p1">**</bpt>Sales<ept id="p1">**</ept>, from the list that appears, select <bpt id="p2">**</bpt>App Settings<ept id="p2">**</ept>.  This part of the application is where you can make administrative changes to it.  
 
-7. 영역 선택기를 다시 선택하고 **앱 설정** 을 **영업** 으로 다시 변경합니다.
+7. 영역 선택기를 다시 선택하고 **앱 설정**을 **영업**으로 다시 변경합니다.
 
 8. 영업 앱에서 고객 서비스 허브 등의 다른 앱으로 전환하려는 경우 화면 왼쪽 위의 Dynamics 365 텍스트 옆에 있는 **영업 허브** 텍스트를 선택합니다. 
 
-9. 그러면 앱 화면이 표시됩니다. 이 화면에서 **고객 서비스 허브** 를 선택하면 고객 서비스 허브 애플리케이션으로 이동하게 됩니다. 
+9. 그러면 앱 화면이 표시됩니다. 이 화면에서 **고객 서비스 허브**를 선택하면 고객 서비스 허브 애플리케이션으로 이동하게 됩니다. 
 
 10. **영업 허브** 앱으로 다시 전환하려면 화면 위쪽의 **고객 서비스 허브** 텍스트를 선택합니다. 
