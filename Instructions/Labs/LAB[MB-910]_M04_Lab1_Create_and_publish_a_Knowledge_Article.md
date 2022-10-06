@@ -19,17 +19,17 @@ lab:
 
 2. 화면 왼쪽의 탐색 영역에서 **참조 문서**를 선택합니다. 
 
-3. 각 스테이지의 참조 문서를 쉽게 확인하려면 **내 활성 문서** 옆의 드롭다운 화살표를 선택합니다. 
+3. 각 스테이지의 참조 문서를 쉽게 확인하려면 **내 활성 문서** 옆의 드롭다운 화살표를 선택합니다. 목록에 활성 아티클이 없을 수 있습니다.
 
 4. **초안 문서**를 선택합니다. 
 
-5. Select <bpt id="p1">**</bpt>Approved Articles<ept id="p1">**</ept>. You should see at least one approved article.  
+5. **승인된 문서**를 선택합니다. 
 
 6. **내 활성 문서**로 다시 전환합니다.
 
 7. **명령 모음**에서 **새로 만들기** 단추를 선택합니다. 
 
-8. After the new record opens, select the drop-down arrow next to the <bpt id="p1">**</bpt>Status reason<ept id="p1">**</ept> field in the record header at the top. Set <bpt id="p1">**</bpt>Language<ept id="p1">**</ept> to <bpt id="p2">**</bpt>English - United States<ept id="p2">**</ept>.
+8. 세 레코드가 열리면 위쪽의 레코드 머리글에 있는 **상태 설명** 필드 옆의 드롭다운 화살표를 선택합니다. **언어**를 **영어 - 미국**으로 설정합니다.
 
 9. 다음과 같이 문서를 완성합니다.
 
@@ -69,19 +69,19 @@ lab:
 
 15. **명령 모음**에서 **저장 후 닫기** 단추를 선택하여 변경 내용을 저장한 후 문서를 닫습니다.
 
-After the author initially creates the record, it will generally go through an approval process before it is live. Next, we will act as an approver and approve the article. 
+작성자가 레코드를 처음 만들고 나면 보통 레코드를 가동하기 전에 승인 프로세스가 진행됩니다. 다음으로는 승인자로 문서를 승인하겠습니다. 
 
 16. 참조 문서에서 보기를 **제안 문서**로 전환하여 승인해야 하는 문서를 확인합니다. 
 
 17. 방금 만든 **도착 시 상품 손상 - 사용자 이니셜** 문서를 엽니다.
 
-18. On the <bpt id="p1">**</bpt>New Process<ept id="p1">**</ept>, select the <bpt id="p2">**</bpt>Review<ept id="p2">**</ept> stage. Set the <bpt id="p1">**</bpt>Review<ept id="p1">**</ept> field to <bpt id="p2">**</bpt>Approved<ept id="p2">**</ept>.
+18. **새 프로세스**에서 **검토** 스테이지를 선택합니다. **검토** 필드의 값을 **승인됨**으로 설정합니다.
 
 19. 문서 승인을 확인하라는 메시지가 표시되면 **확인**을 선택합니다. 
 
 20. **다음 스테이지** 단추를 선택하여 **게시** 스테이지로 이동합니다. 
 
-21. On the <bpt id="p1">**</bpt>Command Bar<ept id="p1">**</ept> at the top of the article, select the <bpt id="p2">**</bpt>vertical ellipsis<ept id="p2">**</ept> at the left of the command bar. From the menu that appears, select <bpt id="p1">**</bpt>Relate Product<ept id="p1">**</ept>. 
+21. 문서 위쪽의 **명령 모음**에서 명령 모음 왼쪽의 **세로 줄임표**를 선택합니다. 표시되는 메뉴에서 **제품 연결**을 선택합니다. 
 
 22. **제품 연결** 창에서 **기업용 Office 365(샘플)** 를 선택합니다.
 
