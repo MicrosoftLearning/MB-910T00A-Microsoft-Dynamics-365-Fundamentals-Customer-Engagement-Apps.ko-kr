@@ -11,7 +11,7 @@ lab:
 
 ## <a name="objectives"></a>목표
 
-Defining and working with account and contact records in Dynamics 365 applications is one of the most common activities you will do. Once accounts and contacts are created, activities such as phone calls, tasks, and appointments will represent the interactions that you have with your customers.
+Dynamics 365 가장 일반적으로 수행하는 활동 중 하나는 거래처 및 연락처 레코드 정의 및 사용입니다. 거래처 및 연락처를 만들고 나면 전화 통화, 작업, 약속 등의 활동에 고객과의 상호 작용 내용이 표시됩니다.
 
 ## <a name="lab-setup"></a>랩 설정
 

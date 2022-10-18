@@ -11,7 +11,7 @@ lab:
 
 ## <a name="objectives"></a>목표
 
-During this exercise, you will be manually capturing a sales opportunity for an existing customer named Jim Glynn. He works for a company called Adventure Work. Not only will you be capturing the opportunity in the system, but you will be using the tools available in Dynamics 365 Sales to work through and close the opportunity.
+이 연습에서는 기존 고객 Jim Glynn 관련 영업 기회를 수동으로 캡처합니다. 이 고객은 Adventure Work라는 회사에서 근무하고 있습니다. 여기서는 Dynamics 365 시스템에서 영업 기회를 캡처하고, Dynamics 365 Sales에서 제공되는 도구를 사용하여 영업 기회를 진행 및 종료합니다.
 
 
 ## <a name="lab-setup"></a>랩 설정
@@ -66,11 +66,11 @@ During this exercise, you will be manually capturing a sales opportunity for an 
 
 12. 이해 관계자 하위 표에는 Suzanne Burke가 이해 관계자로 이미 정의되어 있습니다. 
 
-13. On the Sales Team sub-grid, select the <bpt id="p1">**</bpt>Vertical Ellipsis<ept id="p1">**</ept>. From the menu that appears select <bpt id="p1">**</bpt>New Connection<ept id="p1">**</ept>. 
+13. 영업 팀 하위 표에서 **세로 줄임표**를 선택합니다. 표시되는 메뉴에서 **새 연결**을 선택합니다. 
 
-14. Search for and select your user record. Once completed, select the <bpt id="p1">**</bpt>Add<ept id="p1">**</ept> button. 
+14. 사용자 레코드를 검색하여 선택합니다. 완료되면 **추가** 단추를 선택합니다. 
 
-15. On the Competitors sub-grid, select the <bpt id="p1">**</bpt>Vertical Ellipsis<ept id="p1">**</ept>. From the menu that appears select <bpt id="p1">**</bpt>Add Existing Competitor<ept id="p1">**</ept>. 
+15. 경쟁 업체 하위 표에서 **세로 줄임표**를 선택합니다. 표시되는 메뉴에서 **기존 경쟁 업체 추가**를 선택합니다. 
 
 16. **레코드 조회** 화면에서 **새 레코드**를 선택한 다음 **경쟁 업체**를 선택합니다.
 
@@ -78,7 +78,7 @@ During this exercise, you will be manually capturing a sales opportunity for an 
 
 18. **저장 후 닫기** 단추를 선택합니다.
 
-19. <bpt id="p1">**</bpt>Coho Technologies<ept id="p1">**</ept> should be selected in the lookup record window. Select the <bpt id="p1">**</bpt>Add<ept id="p1">**</ept> button to finishing adding the competitor. 
+19. 조회 레코드 창에 **Coho Technologies**가 선택되어 있어야 합니다. **추가** 단추를 선택하여 애플리케이션을 추가합니다. 
 
 20. **잠재 고객 - 영업 기회** 비즈니스 프로세스 흐름에서 **개발** 스테이지를 선택합니다. **이해 관계자 식별** 및 **경쟁 업체 식별** 단계를 모두 **완료됨**으로 설정합니다. 
 
@@ -92,6 +92,6 @@ During this exercise, you will be manually capturing a sales opportunity for an 
 
 25. **마침** 단추를 클릭합니다. 
 
-26. 이 연습에서는 기존 고객 Jim Glynn 관련 영업 기회를 수동으로 캡처합니다. 
+26. 이제 비즈니스 프로세스를 완료했으므로 영업 기회를 종료해야 합니다. 영업 기회의 **명령 모음**에서 **성공으로 종료** 단추를 선택합니다. 
 
 27. **영업 기회 종료** 화면에서 **확인** 단추를 선택하여 영업 기회 레코드 종료하기를 마칩니다. 
