@@ -49,15 +49,15 @@ lab:
 
 14. 계속 작업할 수 있도록 **조사** 스테이지 플라이 아웃 창에서 **X**를 선택하여 창을 제거합니다. 
 
-15. On the right side of the case screen, locate and select the <bpt id="p1">**</bpt>Knowledge<ept id="p1">**</ept> book Icon. (It will be directly below the <bpt id="p1">**</bpt>wrench<ept id="p1">**</ept> icon).
+15. 서비스 케이스 화면 오른쪽에서 책 모양 **지식** 아이콘을 선택합니다. (이 아이콘은 **렌치** 아이콘 바로 아래에 있습니다.)
 
-16. Notice that the title of the case you created is automatically provided as the search text. Locate and select the <bpt id="p1">**</bpt>Item Broken on Arrival<ept id="p1">**</ept> article you created earlier. 
+16. 작성한 서비스 케이스 제목이 검색 텍스트로 자동 제공됩니다. 앞에서 만든 **도착 시 상품 손상** 문서를 찾아 선택합니다. 
 
-17. The full contents of the article will be displayed, select the <bpt id="p1">**</bpt>Link this article to the current record<ept id="p1">**</ept> icon. Verify that the text <bpt id="p1">**</bpt>Linked to Case<ept id="p1">**</ept> appears. 
+17. 문서의 전체 내용이 표시됩니다. **이 문서를 현재 레코드에 연결합니다.** 아이콘을 선택합니다. **서비스 케이스에 연결됨** 텍스트가 표시되는지 확인합니다. 
 
-18. Now we will get ready to resolve the case. On the <bpt id="p1">**</bpt>Record Timeline<ept id="p1">**</ept>, hover over the <bpt id="p2">**</bpt>Return call to Patrick<ept id="p2">**</ept> Phone Call activity you created earlier. Select the mark complete <bpt id="p1">**</bpt>Check Mark Icon<ept id="p1">**</ept> to complete the activity. 
+18. 이제 서비스 케이스를 해결할 수 있습니다. **레코드 타임라인**에서 앞에서 만든 **Patrick에게 다시 전화** 전화 통화 활동 위에 커서를 올립니다. 완료로 표시 **확인 표시 아이콘**을 선택하여 활동을 완료합니다. 
 
-19. On the <bpt id="p1">**</bpt>Close Phone Call<ept id="p1">**</ept> screen, select the <bpt id="p2">**</bpt>Close<ept id="p2">**</ept> button. Verify the activity says <bpt id="p1">**</bpt>Closed<ept id="p1">**</ept>. 
+19. **전화 통화 종료** 화면에서 **종료** 단추를 선택합니다. 활동이 **종료됨**으로 표시되는지 확인합니다. 
 
 20. **전화 - 서비스 케이스 프로세스**에서 **조사 **스테이지를 선택하고 **다음 스테이지**를 선택하여 **해결 **스테이지로 이동합니다. 
 

@@ -11,7 +11,7 @@ lab:
 
 ## <a name="objectives"></a>목표
 
-During this exercise, you will be capturing a sales lead for Suzanne Burke. She recently reached out to you and is interested in some of your organization’s products and services. Not only will you be capturing the lead in the system, but you will be using the tools available in Dynamics 365 Sales to work the lead through the qualification process.
+이 연습에서는 Suzanne Burke 영업 잠재 고객을 캡처합니다. Suzanne은 최근 조직의 몇 가지 제품과 서비스에 대해 문의를 했던 고객입니다. 여기서는 Dynamics 365 시스템에서 잠재 고객을 캡처하고, Dynamics 365 Sales에서 제공되는 도구를 사용하여 잠재 고객 선별 프로세스를 진행합니다.
 
 
 ## <a name="lab-setup"></a>랩 설정
@@ -52,7 +52,7 @@ During this exercise, you will be capturing a sales lead for Suzanne Burke. She 
 
 5. 명령 모음의 **저장** 단추를 선택하여 새 잠재 고객을 저장한 후 열어 둡니다.
 
-6. Notice the <bpt id="p1">**</bpt>Lead to Opportunity<ept id="p1">**</ept> Business Process Flow at the top of the record. Click the <bpt id="p1">**</bpt>Qualify Stage<ept id="p1">**</ept> to select it. Complete the stage as follows:
+6. 레코드 위쪽에 **잠재 고객 - 영업 기회** 비즈니스 프로세스 흐름이 표시됩니다. **우량으로 선별 스테이지**를 클릭하여 선택합니다. 다음과 같이 스테이지를 완성합니다.
 
     - **구매 시간 프레임:** 현재 분기
 
@@ -70,13 +70,13 @@ During this exercise, you will be capturing a sales lead for Suzanne Burke. She 
 
 10. **저장 후 닫기** 단추를 클릭합니다.
 
-11. Notice the <bpt id="p1">**</bpt>Initial Phone Call<ept id="p1">**</ept> activity is now displayed on the <bpt id="p2">**</bpt>Record Timeline<ept id="p2">**</ept>. Hover over the activity and select the close activity <bpt id="p1">**</bpt>Check Mark Icon<ept id="p1">**</ept> to mark the phone call as completed. 
+11. **최초 전화 통화** 활동이 **레코드 타임라인**에 표시됩니다. 활동 위에 커서를 올리고 종료 활동 **확인 표시 아이콘**을 선택하여 전화 통화를 완료로 표시합니다. 
 
 12. **전화 통화 종료** 창에서 **종료** 단추를 선택합니다. 
 
-13. Next you will qualify the lead record.  This will create a related Opportunity record and move to the next stage of the Lead to Opportunity sales process.  On the Command Bar, select the Qualify button.  
+13. 다음으로는 잠재 고객 레코드를 선별합니다.  그러면 관련 영업 기회 레코드가 작성되며, 잠재 고객 - 영업 기회 영업 프로세스의 다음 스테이지가 진행됩니다.  명령 모음에서 우량으로 선별 단추를 선택합니다.  
 
-14. After the system qualifies the lead, a new <bpt id="p1">**</bpt>Opportunity<ept id="p1">**</ept> record will be created, and the business process will advance to the <bpt id="p2">**</bpt>Develop<ept id="p2">**</ept> stage.  Select the <bpt id="p1">**</bpt>Qualify<ept id="p1">**</ept> stage to view the original lead record. 
+14. 시스템에서 잠재 고객을 우량으로 선별하고 나면 새 **영업 기회** 레코드가 작성되며 비즈니스 프로세스의 **개발** 스테이지가 진행됩니다.  **우량으로 선별** 스테이지를 선택하여 원래 잠재 고객 레코드를 표시합니다. 
 
 15. **개발** 스테이지를 선택하여 영업 기회로 돌아갑니다.
 

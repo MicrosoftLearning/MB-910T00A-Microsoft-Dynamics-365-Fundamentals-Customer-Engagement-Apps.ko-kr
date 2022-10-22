@@ -11,7 +11,7 @@ lab:
 
 ## <a name="objectives"></a>목표
 
-During this exercise you will see that Customer Journeys are a key component in Dynamics 365 Marketing. You will create customer journeys as a basis for any marketing effort to guide the path a customer takes while interacting with your organization's marketing process. The goal of the journey, when it is complete, is to turn them into revenue.
+이 연습에서는 Dynamics 365 Marketing의 핵심 구성 요소인 고객 여정을 살펴봅니다. 어떤 마케팅 작업에서든 고객이 조직 마케팅 프로세스와 상호 작용하는 과정에서 진행하게 될 경로를 안내하는 기준으로 고객 여정을 작성하게 됩니다. 이렇게 완성한 고객 여정은 매출을 창출하는 데 활용됩니다.
 
 ## <a name="lab-setup"></a>랩 설정
 
@@ -19,7 +19,7 @@ During this exercise you will see that Customer Journeys are a key component in 
 
 ## <a name="instructions"></a>Instructions
 
-<bpt id="p1">**</bpt>Note:<ept id="p1">**</ept> Marketing Emails cannot be created or edited in Internet Explorer. Please use Microsoft Edge or Google Chrome to complete this exercise.
+**참고:** 마케팅 전자 메일은 Internet Explorer에서 작성하거나 편집할 수 없습니다. 이 연습을 완료하려면 Microsoft Edge 또는 Google Chrome을 사용하세요.
 
 **참고:** 고객 여정을 만들기 전에 고객 여정에 추가할 수 있는 활성 전자 메일이 있는지를 확인해야 합니다. 
 
@@ -35,15 +35,15 @@ During this exercise you will see that Customer Journeys are a key component in 
 
 6. 명령 모음을 사용하여 **새로 만들기**를 선택합니다.
 
-7. The <bpt id="p1">**</bpt>New Customer Journey<ept id="p1">**</ept> page opens with the <bpt id="p2">**</bpt>Select a Customer Journey Template<ept id="p2">**</ept> dialog box shown. Select <bpt id="p1">**</bpt>Skip<ept id="p1">**</ept> to start creating the journey from scratch.
+7. **새 고객 여정** 페이지가 열리고 **고객 여정 템플릿 선택** 대화 상자가 표시됩니다. **건너뛰기**를 선택하여 여정을 처음부터 만드는 과정을 시작합니다.
 
-8. Select <bpt id="p1">**</bpt>Set audience<ept id="p1">**</ept> (or, alternatively, select <bpt id="p2">**</bpt><ph id="ph1">+</ph><ept id="p2">**</ept>). Select the Redmond Customers segment that you created in the previous exercise. The first tile populates with the segment name and the <bpt id="p1">**</bpt>Audience<ept id="p1">**</ept> pane displays the segment properties.
+8. **대상 그룹 설정**을 선택합니다( **+** 를 선택해도 됨). 이전 연습에서 만든 레드몬드 고객 세그먼트를 선택합니다. 첫 번째 타일에 세그먼트 이름이 입력되고 **대상 그룹** 창에 세그먼트 속성이 표시됩니다.
 
 9. 캔버스에서 **+** 를 선택하고 상황에 맞는 메뉴에서 **메일 보내기**를 선택합니다.
 
 10. 앞에서 활성화한 **Introduction to Chairs** 전자 메일을 선택합니다. 
 
-11. Select the <bpt id="p1">**</bpt>General<ept id="p1">**</ept> tab located towards the top of the Customer Journey Record. Enter the following information into the <bpt id="p1">**</bpt>General<ept id="p1">**</ept> tab:
+11. 고객 여정 레코드 위쪽에 있는 **일반** 탭을 선택합니다. **일반** 탭에 다음 정보를 입력합니다.
 
     - **이름**: 레드몬드 고객 여정
 
@@ -55,4 +55,4 @@ During this exercise you will see that Customer Journeys are a key component in 
 
 12. 명령 모음에서 **저장**을 선택하여 지금까지 수행한 작업을 저장합니다.
 
-13. 이 연습에서는 Dynamics 365 Marketing의 핵심 구성 요소인 고객 여정을 살펴봅니다.
+13. 이제 여정이 준비되었습니다. 여정을 시작하려면 명령 모음에서 **가동**을 선택하여 여정을 게시합니다.
