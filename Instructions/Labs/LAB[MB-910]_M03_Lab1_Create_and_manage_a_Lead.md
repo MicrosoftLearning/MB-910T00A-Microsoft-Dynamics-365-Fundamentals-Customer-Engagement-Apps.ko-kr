@@ -30,15 +30,15 @@ lab:
 
     - **토픽:** 새 장비 구매 예정 - 사용자 이니셜
 
-    - **이름:** Suzanne
+    - **이름:** Suzanne – 사용자 이니셜
 
-    - **성:** Burke
+    - **성:** Burke – 사용자 이니셜
 
     - **직함:** CFO
 
     - **근무지 전화:** 888 555-8715
 
-    - **메일:** Suzanne@contososample.com
+    - **메일:** Suzanne.YourInitials@contososample.com
 
     - **회사:** Contoso - Washington
 
