@@ -2,7 +2,7 @@
 lab:
   title: '학습 경로 1 - 랩 1.2: 고객 및 활동 관리'
   learning path: Explore the core capabilities of Microsoft Dynamics 365 customer engagement apps
-  module: 'Module 2: Describe shared activities and integration options in Dynamics 365 customer engagement apps'
+  module: Describe shared activities and integration options in Dynamics 365 customer engagement apps
 ---
 
 학습 경로 2 - 모듈 2: Dynamics 365 고객 참여 앱의 공유 활동 및 통합 옵션 설명하기
@@ -30,11 +30,11 @@ lab:
 
 4. 다음과 같이 거래처 레코드를 완성합니다.
 
-    - **계정 이름:**  Contoso Corporate
+    - **계정 이름:** Contoso 회사(사용자 이니셜)
 
-    - **전화:** 888-555-1234
+    - **전화:** 888-555-1234(이니셜)
 
-    - **주소 1 나머지 주소 1:** 테헤란로 131<sup data-htmlnode=""></sup>
+    - **주소 1 거리 1:** 191 181<sup data-htmlnode="">st</sup> Ave N (당신의 이니셜)
 
     - **주소 1 구/군/시:** 시애틀
 
@@ -48,11 +48,11 @@ lab:
 
 7. 다음과 같이 거래처 레코드를 완성합니다.
 
-    - **계정 이름:**  Contoso North America
+    - **계정 이름:** Contoso 북아메리카(사용자 이니셜)
 
-    - **전화:** 888-555-4321
+    - **전화:** 888-555-4321(이니셜)
 
-    - **주소 1 – 나머지 주소 1**: 테헤란로 131<sup data-htmlnode=""></sup>
+    - **주소 1 거리 1**: 187<sup data-htmlnode="">11th</sup> ST N (귀하의 이니셜)
 
     - **주소 1 구/군/시:** 시카고
 
@@ -72,11 +72,11 @@ lab:
 
     - **이름:** Jackson
 
-    - **성:** 진
+    - **성:** 곽(사용자 이니셜)
 
     - **직함:** CEO
 
-    - **메일:** [Jackson@contososample.com](mailto:Jackson@contososample.com)
+    - **Email:** [잭슨(이니셜)@contososample.com](mailto:Jackson@contososample.com)
 
 13. **저장 후 닫기** 단추를 선택합니다.
 
@@ -88,7 +88,7 @@ lab:
 
 17. 다음과 같이 약속을 완성합니다.
 
-    - **주체**: Jackson과의 모임
+    - **제목:** Jackson과의 모임(이니셜)
 
     - **시작 시간:** 내일 오전 10:00
 
