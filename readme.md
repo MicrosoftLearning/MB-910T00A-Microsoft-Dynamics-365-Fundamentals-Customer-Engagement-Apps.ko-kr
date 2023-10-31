@@ -1,4 +1,4 @@
-# MB-910T00A: Microsoft Dynamics 365 기본 사항 고객 참여 앱
+# MB-910T00A: Microsoft Dynamics 365 기본 사항(CRM)
 
 - **[최신 학생 핸드북 및 AllFiles 콘텐츠 다운로드](https://learningdownloadcenter.microsoft.com/)**
 - **MCT이신가요?** - [MCT를 위한 GitHub 사용자 가이드](https://microsoftlearning.github.io/MCT-User-Guide/)를 살펴보세요.
@@ -26,7 +26,7 @@
 
 - MCT라면 누구나 GitHub 리포지토리에서 코드 또는 콘텐츠에 대한 끌어오기 요청을 제출할 수 있으며, Microsoft와 과정 작성자는 필요한 경우 콘텐츠 및 랩 코드 변경 내용을 심사하고 포함합니다.
 
-- 버그, 변경 내용, 개선 사항 및 아이디어를 제출할 수 있습니다.  우리보다 먼저 새 Azure 기능을 찾으셨나요?  새 데모를 제출하세요!
+- 버그, 변경 내용, 개선 사항 및 아이디어를 제출할 수 있습니다.  우리보다 먼저 새 Azure 기능을 찾으셨나요?  새로운 데모를 제출해 주세요!
 
 ## 참고
 
