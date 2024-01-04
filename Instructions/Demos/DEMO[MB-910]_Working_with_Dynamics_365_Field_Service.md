@@ -1,10 +1,10 @@
 ---
 demo:
-  title: '데모: Dynamics 365 Field Service 작업'
+  title: '데모: Dynamics 365 Field Service로 작업하기'
   module: Learn the Fundamentals of Dynamics 365 Field Service
 ---
 
-# 데모: Dynamics 365 Field Service 작업
+# 데모: Dynamics 365 Field Service로 작업하기
 
 ## 지침
 
