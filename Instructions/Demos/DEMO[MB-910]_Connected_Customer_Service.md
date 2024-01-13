@@ -1,10 +1,10 @@
 ---
 demo:
-  title: '데모: 커넥트 고객 서비스'
+  title: '데모: Connected Customer Service'
   module: Learn the Fundamentals of Dynamics 365 Customer Service
 ---
 
-# 데모: 커넥트 고객 서비스
+# 데모: Connected Customer Service
 
 ## 지침
 
@@ -16,7 +16,7 @@ demo:
 
         - 트리거되는 이벤트 연습
 
-- 커넥트 고객 서비스로 전환 
+- Connected Customer Service로 전환 
 
     - IoT 디바이스가 애플리케이션에 반영되는 방식 표시
 

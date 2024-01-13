@@ -1,4 +1,4 @@
-# MB-910T00A: Microsoft Dynamics 365 기본 사항(CRM)
+# MB-910: Microsoft Dynamics 365 기본 사항(CRM)
 
 - **[최신 학생 핸드북 및 AllFiles 콘텐츠 다운로드](https://learningdownloadcenter.microsoft.com/)**
 - **MCT이신가요?** - [MCT를 위한 GitHub 사용자 가이드](https://microsoftlearning.github.io/MCT-User-Guide/)를 살펴보세요.
@@ -18,7 +18,7 @@
 
 - 트레이너는 강의를 할 때마다 GitHub에서 최신 Azure 서비스를 지원하기 위해 변경된 내용을 확인하고 최신 파일을 가져와서 강의에 사용하는 것이 좋습니다.
 
-## 수강생 핸드북의 변경 사항은 어떻게 되나요?
+## 학생 핸드북의 변경 사항은 어떻게 되나요?
 
 - 학생 핸드북을 분기별로 검토하고 필요하다면 일반 MOC 릴리스 채널을 통해 업데이트합니다.
 

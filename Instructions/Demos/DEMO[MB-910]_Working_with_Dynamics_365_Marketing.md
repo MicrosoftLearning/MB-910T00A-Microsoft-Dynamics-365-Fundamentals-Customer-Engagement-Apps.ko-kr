@@ -8,11 +8,11 @@ demo:
 
 ## 지침
 
-Dynamics 365 Customer Insights - Journeys를 통해 조직은 캠페인 제공 및 실행에서 이벤트 관리에 이르기까지 마케팅의 다양한 측면을 모두 제어할 수 있습니다. 
+Dynamics 365 Customer Insights를 사용하는 조직은 캠페인 제공 및 실행, 이벤트 관리 등 마케팅의 모든 요소를 제어할 수 있습니다. 
 
 1. Dynamics 365 Customer Insights - Journeys로 이동하여 엽니다.
 
-- Dynamics 365 Dynamics 365 Customer Insights - Journeys를 사용하면 맞춤형 인구 통계에 따라 특정 고객을 쉽게 식별하고 대상으로 지정할 수 있습니다. 
+- Dynamics 365 Customer Insights - Journeys에서는 맞춤형 인구 통계에 따라 특정 고객을 쉽게 파악하여 대상으로 지정할 수 있습니다. 
 
     - Marketing 영업 파이프라인 대시보드에서 작업 시작
 
@@ -36,7 +36,7 @@ Dynamics 365 Customer Insights - Journeys를 통해 조직은 캠페인 제공 �
 
     - 고객 여정 디자이너 열기
 
-    - 고객이 상호 작용하는 방식을 정의하려면 Journey에서 사용할 활동과 활동 사용 방법을 만들고 정의하여 쉽게 수정할 수 있습니다. 
+    - 고객의 상호 작용 방식 정의는 쉽게 수정할 수 있습니다. 여정에서 사용할 활동, 그리고 해당 활동을 사용할 방법과 시기를 작성 및 정의하면 됩니다. 
 
             - Add an Activity to the Journey.
 
@@ -44,7 +44,7 @@ Dynamics 365 Customer Insights - Journeys를 통해 조직은 캠페인 제공 �
 
             - Save and Publish Customer Journey
 
-- 사용자가 만든 여정에 따라 자신이 누구인지, 조직 마케팅 콘텐츠와 상호 작용할 때 어떤 경로를 선택했는지에 따라 대상 마케팅 환경이 제공됩니다. 
+- 작성한 여정에 따라 고객의 특성, 그리고 고객이 조직 마케팅 콘텐츠와 상호 작용하는 과정에서 선택하는 경로에 따라 대상이 지정된 마케팅 환경이 제공됩니다. 
 
     - 고객 가상 사용자로 전환하여 해당 고객에게 보낸 미리 정의된 마케팅 전자 메일 열기. 전자 메일의 다양한 콘텐츠를 활용하는 방법을 연습 및 설명합니다. 
 
